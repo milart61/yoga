@@ -1,0 +1,11 @@
+app
+node_modules
+gulpfile.js
+package.json
+package-lock.json
+/dist/*
+!/dist/css/
+!/dist/fonts/
+!/dist/img/
+!/dist/js/
+!/dist/index.html
